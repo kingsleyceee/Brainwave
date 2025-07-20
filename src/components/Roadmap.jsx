@@ -4,7 +4,7 @@ import { roadmap } from "../constants";
 import { check2, grid, loading1 } from "../assets";
 import Tagline from "./Tagline";
 import { Gradient } from "./design/Roadmap";
-import Button from "./Button";
+import Button from "./button";
 
 const Roadmap = () => (
   <Section className="overflow-hidden" id="roadmap">
