@@ -1,6 +1,6 @@
 import { curve, heroBackground } from "../assets";
 import { robot } from "../assets";
-import Button from "./Button";
+import Button from "./button";
 import Section from "./Section";
 import React from "react";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
